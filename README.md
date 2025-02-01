@@ -1,11 +1,19 @@
 **SyntaxX** is a **lightweight, fast, and customizable** syntax highlighting engine designed for developers who want full control over their **code formatting**. Whether you're working on a **code editor, documentation site, or developer tool**, SyntaxX lets you define **custom languages, themes, and styles** with ease.
 
 # Table of Contents
-- [Features](#Features)
-- [Custom Theming](#Custom Theming)
-	- [Example: Dark Theme Definition](#Example: Dark Theme Definition)
- - [Define Your Own Language](#Define Your Own Language)
- 	- [Example: Custom Language Definition](#Example: Custom Language Definition (MyLang))
+
+- [🚀 Features](#-features)  
+- [🎨 Custom Theming](#-custom-theming)  
+  - [Dark Theme Example](#example-dark-theme-definition)  
+- [🛠️ Define Your Own Language](#-define-your-own-language)  
+  - [Custom Language Example](#example-custom-language-definition-mylang)  
+- [🔧 Using SyntaxX in a React App](#-using-syntaxx-in-a-react-app)  
+  - [React Integration Example](#example-highlighting-code-in-react)  
+- [⚡ Get Started with SyntaxX](#-get-started-with-syntaxx)  
+  - [Installation](#install-syntaxx)  
+  - [Basic Usage](#import-and-use-in-your-project)  
+- [🔮 Future Plans](#-future-plans)  
+- [📢 Join the SyntaxX Community!](#-join-the-syntaxx-community)  
 
 ---
 ## **🚀 Features**
