@@ -2,18 +2,18 @@
 
 # Table of Contents
 
-- [🚀 Features](#-features)  
-- [🎨 Custom Theming](#-custom-theming)  
+- [Features](#-features)  
+- [Custom Theming](#-custom-theming)  
   - [Dark Theme Example](#example-dark-theme-definition)  
-- [🛠️ Define Your Own Language](#-define-your-own-language)  
+- [Define Your Own Language](#-define-your-own-language)  
   - [Custom Language Example](#example-custom-language-definition-mylang)  
-- [🔧 Using SyntaxX in a React App](#-using-syntaxx-in-a-react-app)  
+- [Using SyntaxX in a React App](#-using-syntaxx-in-a-react-app)  
   - [React Integration Example](#example-highlighting-code-in-react)  
-- [⚡ Get Started with SyntaxX](#-get-started-with-syntaxx)  
+- [Get Started with SyntaxX](#-get-started-with-syntaxx)  
   - [Installation](#install-syntaxx)  
   - [Basic Usage](#import-and-use-in-your-project)  
-- [🔮 Future Plans](#-future-plans)  
-- [📢 Join the SyntaxX Community!](#-join-the-syntaxx-community)  
+- [Future Plans](#-future-plans)  
+- [Join the SyntaxX Community!](#-join-the-syntaxx-community)  
 
 ---
 ## **🚀 Features**
