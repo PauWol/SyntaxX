@@ -1,3 +1,4 @@
+# **SyntaxX**
 **SyntaxX** is a **lightweight, fast, and customizable** syntax highlighting engine designed for developers who want full control over their **code formatting**. Whether you're working on a **code editor, documentation site, or developer tool**, SyntaxX lets you define **custom languages, themes, and styles** with ease.
 
 # Table of Contents
