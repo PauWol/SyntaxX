@@ -1,14 +1,11 @@
 **SyntaxX** is a **lightweight, fast, and customizable** syntax highlighting engine designed for developers who want full control over their **code formatting**. Whether you're working on a **code editor, documentation site, or developer tool**, SyntaxX lets you define **custom languages, themes, and styles** with ease.
 
-```table-of-contents
-title: # Table of Contents 
-style: nestedList # TOC style (nestedList|nestedOrderedList|inlineFirstLevel)
-minLevel: 0 # Include headings from the specified level
-maxLevel: 0 # Include headings up to the specified level
-includeLinks: true # Make headings clickable
-hideWhenEmpty: false # Hide TOC if no headings are found
-debugInConsole: false # Print debug info in Obsidian console
-```
+# Table of Contents
+- [Features](#🚀 Features)
+- [Custom Theming](#🎨 Custom Theming)
+	- [Example: Dark Theme Definition](#Example: Dark Theme Definition)
+ - [Define Your Own Language](#🛠️ Define Your Own Language)
+ 	- [Example: Custom Language Definition](#Example: Custom Language Definition (MyLang))
 
 ---
 ## **🚀 Features**
